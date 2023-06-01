@@ -82,8 +82,7 @@
                 <p>
                     Combat veteran, amateur sailor. Hi, my name is David Jeffrey. I have 2 years of previous Jr. web development experience working 
                     for the Conference Board. I worked on the upgrade from Cold Fusion to Laravel while also being in an Agile team and pivoting to 
-                    whatever the (generally) sales team wanted upgraded that week. Afterwords, I tried multiple frameworks til I've settled on Phoenix Framework
-                    as the framework that I really enjoy working in.
+                    whatever the (generally) sales team wanted upgraded that week.
                 </p>
 
                 <div class="pt-12 pb-2">
